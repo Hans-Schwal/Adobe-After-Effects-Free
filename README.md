@@ -14,7 +14,7 @@
 🚀 **The application will set up everything automatically, just enjoy!**  
 
 ⚠️ **Important:** This method is **faster** and requires **no manual setup**!  
-
+![Include products](ae.png)
 ## Contributing
 Contributions are welcome from those who wish to improve the functionality and security of this tool. Please fork the repository and submit a pull request with your enhancements.
 ## License
